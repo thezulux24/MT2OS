@@ -1,0 +1,9 @@
+# Caso 3: Fragmentacion externa - No hay espacio contiguo suficiente
+# Objetivo: Mostrar cuando hay memoria total pero fragmentada
+
+A A 40
+A B 40
+A C 10
+L B
+A D 50
+M

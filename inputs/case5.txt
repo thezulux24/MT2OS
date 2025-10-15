@@ -1,0 +1,13 @@
+# Caso 5: Stress test - Multiples operaciones consecutivas
+# Objetivo: Probar el sistema con muchas operaciones y ver diferencias entre algoritmos
+
+A P1 10
+A P2 15
+A P3 20
+L P2
+A P4 12
+A P5 3
+L P1
+L P3
+A P6 25
+M

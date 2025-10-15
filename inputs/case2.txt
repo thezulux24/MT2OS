@@ -1,0 +1,10 @@
+# Caso 2: Coalescing - Fusion de bloques libres adyacentes
+# Objetivo: Verificar que el coalescing funciona correctamente
+
+A A 30
+A B 20
+A C 15
+L B
+L A
+A D 40
+M

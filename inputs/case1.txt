@@ -1,0 +1,8 @@
+# Caso 1: Ejemplo basico - Asignacion, liberacion y reasignacion
+# Objetivo: Demostrar operaciones basicas y como cada algoritmo elige huecos
+
+A P1 10
+A P2 25
+L P1
+A P3 8
+M

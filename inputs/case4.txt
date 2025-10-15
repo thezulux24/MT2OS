@@ -1,0 +1,9 @@
+# Caso 4: Manejo de errores - Operaciones invalidas
+# Objetivo: Verificar que el sistema maneja errores correctamente
+
+A X 60
+L X
+L X
+L Y
+A Z 50
+M
